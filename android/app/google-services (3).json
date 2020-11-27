@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728610596141",
+    "firebase_url": "https://e-ride-8bef0.firebaseio.com",
+    "project_id": "e-ride-8bef0",
+    "storage_bucket": "e-ride-8bef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728610596141:android:d421b261b2e74015db5fa4",
+        "android_client_info": {
+          "package_name": "com.eride.Eride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728610596141-pi579istetbbuu1vco3jv5uor3t1buum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjs-PhmH17ab9yPIIDNRRXAFJIO2RrEF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728610596141-pi579istetbbuu1vco3jv5uor3t1buum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
